@@ -1,5 +1,5 @@
-# Brett_Doffing
-Profile Page
+# BrettDoffing
+Data Science Profile
 
 # [Project 1: A Block Level Analysis of the Bitcoin Fee Market]()
 * Setup a Bitcoin node
