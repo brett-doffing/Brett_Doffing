@@ -1,4 +1,4 @@
-# BrettDoffing
+# Brett Doffing
 Data Science Profile
 
 # [Project 1: A Block Level Analysis of the Bitcoin Fee Market]()
