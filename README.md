@@ -2,3 +2,4 @@
 * Setup a Bitcoin node
 * Processed block fee information from the blockchain
 * Analyzed replacing the block reward with block fees
+* [Complete notebook]()
